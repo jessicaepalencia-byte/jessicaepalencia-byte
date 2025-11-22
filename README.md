@@ -1,6 +1,6 @@
 # Hi there, I'm Jessica 👋
 
-### A passionate developer from [Your City]
+### A passionate developer from Washington D.C, USA]
 
 * 🔭 I’m currently working on my data analysis certificate and a Toy Drive Fundraiser Art and Music show in my local cxommunity in D.C.
 * 🌱 I’m currently learning the basic principles of data analysis and cooding platforms
